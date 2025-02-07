@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faith Cyril</h1>
 😄 Pronouns: he/him
-<h3 align="center">I am a student in Ghana passionate about Machine Learning and Web development</h3>
-
-- 🌱 I’m currently learning **more about the MERN stack**
+<h3 align="center">I am a SWE passionate about Machine Learning, Data and Web development</h3>
 
 - 📫 How to reach me **cyrilfaith17@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11fs-0bjdwlcMJfeDj_FCOhRBlcP4vnpr/view?usp=sharing">here</a>
 
 - ⚡ Fun fact **I love animals and animal photography**
 
